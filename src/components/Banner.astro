@@ -59,10 +59,21 @@ const hasSubtitle = displaySubtitle !== undefined && displaySubtitle !== "";
 let carouselImgsList = BANNER_IMAGES;
 const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
 const bannerHeight = BANNER_HEIGHT;
+
+// 优化：提取第一张图片用于快速首屏展示
+const firstImage = carouselImgsList[0];
 ---
 
 <div id="banner" class="banner">
   <div class="banner-inner h-full w-full">
+    <!-- 优化：静态背景图，确保首屏立即显示，无闪烁，提升LCP -->
+    {firstImage && (
+      <div 
+        class="absolute left-0 top-0 h-full w-full bg-cover bg-center bg-no-repeat -z-20 bg-base-200"
+        style={{ backgroundImage: `url(${firstImage})` }}
+      ></div>
+    )}
+
     <!-- 始终显示轮播图片 -->
     <div class="carousel">
       <ul id="carousel_imgs">
@@ -70,8 +81,11 @@ const bannerHeight = BANNER_HEIGHT;
           carouselImgsList.map((img, index) => (
             <li
               class="item"
-              style={{ animationDelay: `${index * 6}s` }}
-              data-background-image={img}
+              style={{ 
+                animationDelay: `${index * 6}s`,
+                backgroundImage: index === 0 ? `url(${img})` : undefined
+              }}
+              data-background-image={index === 0 ? undefined : img}
             />
           ))
         }
@@ -256,14 +270,43 @@ const bannerHeight = BANNER_HEIGHT;
         bannerElement.appendChild(styleElement);
     }
 
-    // 设置背景图片
+    // 设置背景图片 - 优化加载逻辑
     const items = document.querySelectorAll("#carousel_imgs .item");
-    items.forEach((item) => {
-      const bgImage = item.getAttribute("data-background-image");
-      if (bgImage) {
-        (item as HTMLElement).style.backgroundImage = `url(${bgImage})`;
+    
+    // 懒加载函数
+    const loadLazyImages = () => {
+      items.forEach((item, index) => {
+        // 跳过第一张，因为已经内联设置了
+        if (index === 0) return;
+        
+        const bgImage = item.getAttribute("data-background-image");
+        if (bgImage) {
+          (item as HTMLElement).style.backgroundImage = `url(${bgImage})`;
+          item.removeAttribute("data-background-image");
+        }
+      });
+    };
+
+    // 移动端检测
+    const isMobile = window.innerWidth < 768;
+
+    // 优化策略：
+    // 1. 桌面端：延迟一小段时间后加载后续图片
+    // 2. 移动端：使用 requestIdleCallback 在空闲时加载，或者延迟更久
+    if (items.length > 1) {
+      if (isMobile) {
+        if ("requestIdleCallback" in window) {
+          (window as any).requestIdleCallback(() => {
+            loadLazyImages();
+          }, { timeout: 5000 });
+        } else {
+          setTimeout(loadLazyImages, 3000);
+        }
+      } else {
+        // 桌面端延迟 1s 加载，优先保证首屏关键资源
+        setTimeout(loadLazyImages, 1000);
       }
-    });
+    }
   });
 </script>
 
@@ -274,7 +317,7 @@ const bannerHeight = BANNER_HEIGHT;
   }
 
   .carousel {
-    @apply absolute left-0 top-0 -z-10 block w-full overflow-hidden bg-base-200;
+    @apply absolute left-0 top-0 -z-10 block w-full overflow-hidden;
     height: var(--bannerHeight);
   }
 
