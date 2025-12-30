@@ -211,7 +211,7 @@ comments:
     pageview: false
 # Umami 统计配置
 umami:
-  enable: true # 是否启用 Umami 统计
+  enable: false # 是否启用 Umami 统计
   baseUrl: "https://cloud.umami.is"
   shareId: "d438VyP7mjcHvTyP"
   websiteId: "3c570f5b-118c-4a22-9231-8a93bf15c200"
