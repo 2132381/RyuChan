@@ -158,8 +158,8 @@ comments:
     reaction: false
     pageview: false
 umami:
-  enable: false
-  baseUrl: https://cloud.umami.is
+  enable: true
+  baseUrl: https://umami.131714.xyz
   shareId: d438VyP7mjcHvTyP
-  websiteId: 3c570f5b-118c-4a22-9231-8a93bf15c200
+  websiteId: 01923022-a812-4369-b896-862fa37d32b1
   timezone: Asia/Shanghai
