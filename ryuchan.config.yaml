@@ -106,12 +106,12 @@ github:
   encryptKey: wudishiduomejimo
 umami:
   enable: true
-  baseUrl: "https://umami.131714.xyz"
-  shareId: "jToXL5Z3hnA1gKUw"
-  websiteId: "3f9afc6c-f0bd-4734-be15-6d053960d34d"
-  timezone: "Asia/Shanghai"
+  baseUrl: https://umami.131714.xyz
+  shareId: jToXL5Z3hnA1gKUw
+  websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
+  timezone: Asia/Shanghai
 user:
-  name: RyuChan
+  name: KoBariDev
   description: Ciallo～(∠・ω<)⌒★
   site: https://hub.xiaozhangya.xin
   avatar: /images/uploads/1767534109675-0p1nho.jpg
