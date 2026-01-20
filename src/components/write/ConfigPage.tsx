@@ -197,9 +197,26 @@ export function ConfigPage() {
                 for (const [target, { file }] of Object.entries(pendingImages)) {
                     toast.loading(`📸 正在处理图片 (${idx}/${totalImages}): ${file.name}...`, { id: toastId })
                     const base64 = await fileToBase64NoPrefix(file)
-                    const ext = file.name.split('.').pop() || 'png'
-                    const filename = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}.${ext}`
-                    const path = `public/images/uploads/${filename}`
+                    let path, filename, publicPath
+                    
+                    // 特殊处理favicon和profile.png
+                    if (target === 'site.favicon') {
+                        // Favicon直接覆盖public目录下的favicon.ico
+                        path = 'public/favicon.ico'
+                        filename = 'favicon.ico'
+                        publicPath = '/favicon.ico'
+                    } else if (target === 'user.avatar') {
+                        // Avatar直接覆盖public目录下的profile.png
+                        path = 'public/profile.png'
+                        filename = 'profile.png'
+                        publicPath = '/profile.png'
+                    } else {
+                        // 其他图片仍然上传到uploads目录
+                        const ext = file.name.split('.').pop() || 'png'
+                        filename = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}.${ext}`
+                        path = `public/images/uploads/${filename}`
+                        publicPath = `/images/uploads/${filename}`
+                    }
 
                     // Create Blob
                     const { sha } = await createBlob(token, GITHUB_CONFIG.OWNER, GITHUB_CONFIG.REPO, base64, 'base64')
@@ -209,8 +226,6 @@ export function ConfigPage() {
                         type: 'blob',
                         sha: sha
                     })
-
-                    const publicPath = `/images/uploads/${filename}`
 
                     // Update config with new path
                     if (configToUpdate) {
