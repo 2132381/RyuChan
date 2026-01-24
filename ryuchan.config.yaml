@@ -1,6 +1,6 @@
 site:
-  tab: RyuChan
-  title: RyuChan
+  tab: mujiyu
+  title: mujiyu
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
   favicon: /favicon.png
@@ -18,8 +18,8 @@ site:
     height: 60vh
     images:
       - https://tc.alcy.cc/q/20250908/b2d656670551cb9ea6eda7b46b6c8ec0.webp
-  icp: 萌ICP备20261117号
-  icp_link: https://icp.gov.moe/?keyword=20261117
+  icp: ''
+  icp_link: ''
   pages:
     home:
       title: RyuChan's Blog
@@ -113,17 +113,17 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: KoBariDev
-  description: Ciallo～(∠・ω<)⌒★
+  name: mujiyu
+  description: 请永远不要为 2 小时以后和 8 公里之外的事情担忧。 喜欢的演员：@黄景瑜 @孙千 @李柯以Sylph @王培延baby🐲
   site: https://hub.xiaozhangya.xin
   avatar: /profile.png
   sidebar:
     social:
-      - href: https://github.com/kobaridev
-        ariaLabel: Github
-        title: Github
-        svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://qm.qq.com/q/dCZjPlRMJO
+        ariaLabel: QQ
+        title: QQ
+        svg: ri:qq-line
+      - href: https://space.bilibili.com/3493122409498928?spm_id_from=333.1007.0.0
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
@@ -132,10 +132,14 @@ user:
         ariaLabel: Douyin
         title: Douyin
         svg: ri:tiktok-line
-      - href: https://demo.131714.xyz/rss.xml
-        ariaLabel: RSS
-        title: RSS
-        svg: ri:rss-fill
+      - href: https://weibo.com/u/5908343897
+        ariaLabel: Weibo
+        title: Weibo
+        svg: ri:weibo-fill
+      - href: mailto:1719395375@qq.com
+        title: Email
+        ariaLabel: Email
+        svg: ri:mail-line
   footer:
     social:
       - href: https://github.com/kobaridev
