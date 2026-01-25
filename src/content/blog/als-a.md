@@ -9,6 +9,7 @@ tags:
   - 冬至
 categories:
   - 网剧冬至
+badge: ''
 ---
 现在网剧冬至在爱奇艺平台上免费观看36集   可以支持一下
 
@@ -16,4 +17,4 @@ categories:
 
 -----
 
-![](http://154.21.201.206:3000/uploads/1768738266382401212-3F21D26A50089A29325B4A3718BEC47B.jpg)
+![](/images/als-a/35d1f6158dfbedef.jpeg)
