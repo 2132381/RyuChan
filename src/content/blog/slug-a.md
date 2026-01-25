@@ -21,4 +21,4 @@ badge: ''
 
 
 -----
-![](http://154.21.201.206:3000/uploads/1768224456100607377-6EF223E0C7BF0A5D1958B53A4C50C52A.jpg)
+![](https://www.mzyft.top/images/slug-a/669425f60b5279c7.png)
