@@ -10,6 +10,7 @@ tags:
 categories:
   - 网剧冬至
   - 冬至
+badge: Pin-1
 ---
 冬天就要看冬至～
 
