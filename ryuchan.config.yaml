@@ -39,7 +39,7 @@ site:
       title: 网站导航
       subtitle: 收藏的常用网站和工具链接
     anime:
-      title: 追番
+      title: 最近在看的剧
       subtitle: 记录和分享我喜欢的动漫作品
     project:
       title: Projects
@@ -70,7 +70,7 @@ site:
       target: _self
       subItems:
         - id: anime
-          text: 追番
+          text: 最近在看
           href: /anime
           svg: material-symbols:movie-outline
           target: _self
