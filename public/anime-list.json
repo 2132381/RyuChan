@@ -1,159 +1,33 @@
 [
   {
-  "created_by": "RyuChan",
-  "description": "",
-  "favorite_count": 0,
-  "id": 8556173,
-  "iso_639_1": "zh",
-  "item_count": 86,
-  "items": [
-    {
-      "adult": false,
-      "backdrop_path": "https://yuy.cn-nb1.rains3.com/0bce27ebc6284b93b35585295721e2df.jpeg",
-      "id": 372058,
-      "title": "冬至",
-      "original_title": "拍摄地上海",
-      "overview": "麻醉科医生陆嫣（孙千饰）在一次上夜班的途中“偶遇”已经死亡多年的好友邓蔓（何泓姗饰），之后身边的怪事便接踵而至。在查明真相的过程中，陆嫣分手多年的前男友，刑警江成屹（黄景瑜饰）也被卷入其中。被掩藏八年的真相，一步一步就此揭开。",
-      "poster_path": "https://yuy.cn-nb1.rains3.com/0bce27ebc6284b93b35585295721e2df.jpeg",
-      "media_type": "movie",
-      "original_language": "ja",
-      "genre_ids": [16, 10749, 18],
-      "popularity": 12.1178,
-      "release_date": "2024-12-20",
-      "video": false,
-      "vote_average": 8.5,
-      "vote_count": 11960
-    }
-  ],
-  "name": "网剧",
-  "page": 4,
-  "poster_path": null,
-  "total_pages": 5,
-  "total_results": 86
-},
-{
-  "created_by": "RyuChan",
-  "description": "",
-  "favorite_count": 0,
-  "id": 8556173,
-  "iso_639_1": "zh",
-  "item_count": 86,
-  "items": [
-    {
-      "adult": false,
-      "backdrop_path": "/cZmOrIOkJ2SNfVdiO85dUbOAYnL.jpg",
-      "id": 1012201,
-      "title": "排球少年！！垃圾场决战",
-      "original_title": "劇場版ハイキュー!! ゴミ捨て場の決戦",
-      "overview": "剧场版描述了原作中最受欢迎的故事之一。乌野高中对阵音驹高中，俗称 \"垃圾场决战\"。现在，在约定的地方，一场没有\"再来一次\"的比赛开始了——",
-      "poster_path": "/7eOTFvo5gyXJIHVDURKorE6ERgU.jpg",
-      "media_type": "movie",
-      "original_language": "ja",
-      "genre_ids": [16, 35],
-      "popularity": 4.4436,
-      "release_date": "2024-02-16",
-      "video": false,
-      "vote_average": 7.603,
-      "vote_count": 199
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
-      "id": 431819,
-      "title": "烟花",
-      "original_title": "打ち上げ花火、下から見るか？横から見るか？",
-      "overview": "海边的中学里，同学争论着「烟花从侧面看，是圆的还是扁的？」决定趁烟花大会当晚找答案。此时女神及川荠正为母亲再婚一事而苦恼，于是叫同时暗恋她的典道和祐介比赛游泳，谁胜出就可以和她一起私奔！不甘落败的典道暗忖:「假如我能穿越时空…」，时空竟然真的回到比赛那天，典道能否改变赛果，捉紧错过了的缘份？",
-      "poster_path": "/cgSaMzSg3GJ8i55x7EHFxcaMIXP.jpg",
-      "media_type": "movie",
-      "original_language": "ja",
-      "genre_ids": [16, 18, 14, 10749],
-      "popularity": 3.2882,
-      "release_date": "2017-08-18",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 349
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg",
-      "id": 62715,
-      "name": "龙珠超",
-      "original_name": "ドラゴンボール超（スーパー）",
-      "overview": "结束了与魔人布欧的惨烈之战后，多灾多难的地球重归和平，而作为救世主存在的孙悟空（野泽雅子 配音）还生人间，和家人们过着无忧无虑的快乐生活。这边厢Z战士们安享太平，遥远的宇宙最深处，一个可怕的神明悠然苏醒。他是破坏神比鲁斯（山寺宏一 配音），嗜好美食又无比任性，稍有不满意的地方便面不改色地摧毁一颗星球以及上面的生命，堪称是界王神都不敢轻易招惹的可怕神明。受一个神秘之梦的侵扰，比鲁斯决定寻找强大的对手比试一番。他和随从维斯（森田成一 配音）来到了地球。孙悟空和伙伴们面临前所未有的挑战，而他将朝着神的境界全力冲刺……本片是由鸟山明担任原案所开启的全新的龙珠故事。",
-      "poster_path": "/9gzkpjs6N7Xxo1CnnJqhFtmYCez.jpg",
-      "media_type": "tv",
-      "original_language": "ja",
-      "genre_ids": [16, 10759, 10765],
-      "popularity": 9.6698,
-      "first_air_date": "2015-07-05",
-      "vote_average": 8.185,
-      "vote_count": 5106,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
-      "id": 12971,
-      "name": "龙珠Z",
-      "original_name": "ドラゴンボールゼット",
-      "overview": "龙珠 Z 是龙珠系列中的第二部，根据日本著名漫画家鸟山明的同名《龙珠》漫画改编，于 1989 年 4 月 19 日在日本富士电视台首播 1996 年 1 月 31 日播放完毕。改编于漫画中第 195 篇-第 519 篇，因为这期间鸟山明的漫画风格转为超激战，而且故事也和前 194 篇风格没有太大关联，因此由东映动画公司改编成为独立的动画片。题目中的“Z”为鸟山明所取，字母表最后一个字母，意为“结束”。\n\n故事发生于“龙珠”后五年的世界，讲述悟空和伙伴们保卫地球的故事。总共分为九个篇幅：赛亚人篇（第 1 话–第 35 话）、那美克星篇（第 36 话~第 74 话）、弗利萨篇（第 75 话~第 107 话）、魔凶星篇（第 108 话～第 117 话）、人造人篇（第 118 话～第 139 话）、沙鲁游戏篇（第 140 话～第 194 话）、那个世界的武道会篇（第 195 话～第 199 话）、赛亚超人篇（第 200 话～第 219 话）及魔人布欧篇（第 220 话～第 291 话）。其中“魔凶星篇”及“那个世界的武道会篇”是电视动画原创故事。",
-      "poster_path": "/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg",
-      "media_type": "tv",
-      "original_language": "ja",
-      "genre_ids": [16, 10765, 10759],
-      "popularity": 32.8339,
-      "first_air_date": "1989-04-26",
-      "vote_average": 8.353,
-      "vote_count": 4653,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/b4YF76JxWSZayk5fBVbbyOnwaQk.jpg",
-      "id": 62450,
-      "name": "可塑性记忆",
-      "original_name": "プラスティック・メモリーズ",
-      "overview": "故事发生在科技飞速发展的未来世界，彼时，人工智能机器人早已经不是罕见之物，正慢慢地融入人类的生活之中。高考落榜之后，十八岁的青年水柿司（内匠靖明 配音）在父母的帮助下来到了SAI社工作，SAI社的主要产品即是名为“Giftia”的人形智能机器人。水柿司被安排到了终端部门工作，来到办公室后水柿司才发现，这个部门的主要职责竟然是回收即将报废的机器人。在这里，水柿司结识了名为艾拉（雨宫天 配音）的少女，她其实正是一名机器人，艾拉外表冷漠不善言其，却有着意外可爱的一面。就这样，水柿司和艾拉成为了工作中的搭档，两人之间渐渐产生了真挚的友谊。",
-      "poster_path": "/mD7Ve1kVdMPab7iCk0K0sRkfxYS.jpg",
-      "media_type": "tv",
-      "original_language": "ja",
-      "genre_ids": [16, 18, 10765],
-      "popularity": 4.48,
-      "first_air_date": "2015-04-05",
-      "vote_average": 8.3,
-      "vote_count": 223,
-      "origin_country": [
-        "JP"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lyam6zw2aNwSM6h6sn0wTLgygj6.jpg",
-      "id": 46004,
-      "name": "约会大作战",
-      "original_name": "デート・ア・ライブ",
-      "overview": "四月十日，春假在昨天结束，今天早上就是所谓的返校日。被可爱的妹妹吵醒后，五河士道原本以为今天也会如同往常般度过平凡的一天。然而伴随着一阵突如其来的冲击波，街道就这样消失得无影无踪。在宛如陨石撞击而变成环形山的街道一隅，一名身穿盔甲手持大剑的神秘少女正站在坑洞的正中央。“你也是来杀我的吧？”摧毁世界的灾难、充满谜团的怪物、被世界否定的少女。 阻止这一切的方法只有两种——歼灭或对话。身穿司令官服的妹妹五河琴里对士道说：“所以你必须与精灵〈约会〉，并且让对方迷恋上你！”这名少女的真正身份是精灵，是会给世界带来毁灭性灾难的存在，她的再次出现，将会给地球带来毁灭性的未来！然而主人公士道却有方法阻止世界毁灭，这个唯一能够阻止世界毁灭的方法就是——要与她约会！",
-      "poster_path": "/ogGs083lUOdCHDv5aVQD4ky4Z8s.jpg",
-      "media_type": "tv",
-      "original_language": "ja",
-      "genre_ids": [16, 10765, 35, 10759],
-      "popularity": 10.9672,
-      "first_air_date": "2013-04-06",
-      "vote_average": 8.4,
-      "vote_count": 464,
-      "origin_country": [
-        "JP"
-      ]
-    }
-  ],
-  "name": "番剧",
-  "page": 5,
-  "poster_path": null,
-  "total_pages": 5,
-  "total_results": 86
-}  
+    "created_by": "RyuChan",
+    "description": "",
+    "favorite_count": 0,
+    "id": 8556173,
+    "iso_639_1": "zh",
+    "item_count": 1,  // 改为 87，因为新增了一条
+    "items": [
+        {
+            "adult": false,
+            "backdrop_path": "https://pic1.iqiyipic.com/image/20241227/4f/53/a_100548603_m_601_m10_320_180.avif",
+            "id": 243028,
+            "title": "冬至",
+            "original_title": "拍摄地上海",
+            "overview": "麻醉科医生陆嫣（孙千饰）在一次上夜班的途中“偶遇”已经死亡多年的好友邓蔓（何泓姗饰），之后身边的怪事便接踵而至。在查明真相的过程中，陆嫣分手多年的前男友，刑警江成屹（黄景瑜饰）也被卷入其中。被掩藏八年的真相，一步一步就此揭开。",
+            "poster_path": "https://pic1.iqiyipic.com/image/20241227/4f/53/a_100548603_m_601_m10_320_180.avif",
+            "media_type": "tv",
+            "original_language": "zh",
+            "genre_ids": [18, 10766],
+            "popularity": 15.8,
+            "release_date": "2024-12-20",
+            "video": false,
+            "vote_average": 8.8,
+            "vote_count": 5000
+        },
+    ]，
+    "name": "网剧",
+    "page": 4,
+    "poster_path": null,
+    "total_pages": 5
+}
 ]
