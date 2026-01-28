@@ -71,7 +71,7 @@ site:
       subItems:
         - id: anime
           text: 最近在看
-          href: /anime
+          href: https://www.bokeyun.top
           svg: material-symbols:movie-outline
           target: _self
         - id: music
