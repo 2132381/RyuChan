@@ -7,6 +7,7 @@ draft: false
 tags:
   - 公告
 categories: []
+badge: ''
 ---
 活动介绍：
 
@@ -37,4 +38,6 @@ https://qm.qq.com/q/ohrx27Li12">mujiyu</a>和XSMP服务器服主：<a href="http
 
 XSMP的由Wind_⁧Blood解释
 
-                                           梦之云服务器+XSMP偷命服务器
+梦之云服务器+XSMP偷命服务器
+
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fyuy.cn-nb1.rains3.com%2F%25E6%2596%25B0%25E5%25B9%25B4%25E6%25B4%25BB%25E5%258A%25A8%25202026.docx&wdOrigin=BROWSELINK">点我查看原件</a>
