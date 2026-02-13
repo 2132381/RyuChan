@@ -10,7 +10,7 @@
     "astro": "astro",
     "format": "prettier --write .",
     "lint": "eslint .",
-    "prefetchmusic": "node scripts/fetch-music-duration.mjs"
+    "prefetch:music": "node scripts/fetch-music-duration.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
