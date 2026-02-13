@@ -3,6 +3,7 @@
   "type": "module",
   "version": "2.0.0",
   "scripts": {
+    "prefetch:music": "node scripts/prefetch-music.js",
     "dev": "astro dev",
     "start": "astro dev",
     "check": "astro check",
