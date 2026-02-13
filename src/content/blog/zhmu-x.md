@@ -10,6 +10,7 @@ tags:
 categories:
   - 招募
   - 惊变100天
+badge: ''
 ---
 为了更好的玩惊变100天，我想要招募一起玩的。
 
@@ -33,3 +34,4 @@ categories:
 
 
 下载客户端: <a href="https://yuy.cn-nb1.rains3.com/100.zip">下载</a>
+
