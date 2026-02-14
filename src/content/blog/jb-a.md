@@ -9,6 +9,7 @@ tags:
   - 公告
 categories:
   - 惊变100天
+badge: ''
 ---
 所有进入的我们视为同意以下条款：
 1.不允许搞破坏
@@ -21,6 +22,6 @@ categories:
 
 违反以上条款，我们将有权对您进行处罚。
 
-本条款所有解释权由 <a href="https://qm.qq.com/q/ofe5phiiys">惊变100天</a>。
+本条款所有解释权由 <a href="https://qm.qq.com/q/ofe5phiiys">惊变100天</a>所有。
 
 感谢您的支持与配合，祝您游戏愉快！
