@@ -9,7 +9,8 @@ tags:
   - 下载
 categories:
   - 惊变100天
+badge: ''
 ---
-惊变100天   <a href="https://yuy.cn-nb1.rains3.com/100.zip">点击</a>
+惊变100天   <a href="https://yuy.cn-nb1.rains3.com/100.1.zip">点击</a>
 
 由<a href="https://qm.qq.com/q/ore5phiiys">惊变100天</a>
