@@ -33,5 +33,5 @@ badge: ''
 所有解释权归 <a href="https://qm.qq.com/q/ore5phiiys">惊变100天群</a> 所有.
 
 
-下载客户端: <a href="https://yuy.cn-nb1.rains3.com/100.zip">下载</a>
+下载客户端: <a href="https://www.mzyft.top/blog/xz-a">下载</a>
 
