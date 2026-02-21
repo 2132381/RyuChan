@@ -1,9 +1,9 @@
 site:
-  tab: RyuChan
-  title: RyuChan
+  tab: mujiyu
+  title: mujiyu
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
-  favicon: /favicon.png
+  favicon: /favicon.ico
   theme:
     light: garden
     dark: dracula
@@ -18,8 +18,8 @@ site:
     height: 60vh
     images:
       - https://tc.alcy.cc/q/20250908/b2d656670551cb9ea6eda7b46b6c8ec0.webp
-  icp: 萌ICP备20261117号
-  icp_link: https://icp.gov.moe/?keyword=20261117
+  icp: ''
+  icp_link: ''
   pages:
     home:
       title: RyuChan's Blog
@@ -108,34 +108,37 @@ github:
   encryptKey: wudishiduomejimo
 umami:
   enable: true
-  baseUrl: https://umami.131714.xyz
-  shareId: jToXL5Z3hnA1gKUw
-  websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
+  baseUrl: www.mzyft.top
+  shareId: PItOR8pvbZ06KYc9
+  websiteId: d8f2ea63-1e48-43bc-af1d-07b19c069f28
   timezone: Asia/Shanghai
 user:
-  name: KoBariDev
-  description: Ciallo～(∠・ω<)⌒★
+  name: mujiyu
+  description: '请永远不要为2小时以后和8公里之外的事情担忧。喜欢的明星: @黄景瑜 @孙千 @李柯以Sylph @王培延baby🐲'
   site: https://hub.xiaozhangya.xin
   avatar: /profile.png
   sidebar:
     social:
-      - href: https://github.com/kobaridev
-        ariaLabel: Github
-        title: Github
-        svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
-        ariaLabel: BiliBili
-        title: BiliBili
-        svg: ri:bilibili-line
-      - href: >-
-          https://www.douyin.com/user/MS4wLjABAAAAeO0sqJYUgh1a26GkVPtS2yv_IOODjeqvtl4KSjvsntg?from_tab_name=main
+      - href: https://qm.qq.com/q/ohrx27Li12
+        ariaLabel: QQ
+        title: QQ
+        svg: ri:qq-line
+      - href: 1719395375@qq.com
+        ariaLabel: Email
+        title: Email
+        svg: ri:mail-line
+      - href: https://v.douyin.com/2rLUABfbRjU/ 2@1.com
         ariaLabel: Douyin
         title: Douyin
         svg: ri:tiktok-line
-      - href: https://weibo.com/u/7579913510
+      - href: https://weibo.com/u/5908343897
         title: Weibo
         ariaLabel: Weibo
         svg: ri:weibo-fill
+      - href: https://space.bilibili.com/3493122409498928?spm_id_from=333.1007.0.0
+        title: Bilibili
+        ariaLabel: Bilibili
+        svg: ri:bilibili-line
   footer:
     social:
       - href: https://github.com/kobaridev
