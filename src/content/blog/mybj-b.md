@@ -8,6 +8,7 @@ tags:
   - 命运扳机
 categories:
   - 命运扳机
+badge: ''
 ---
 条件:1.能长时间在线
 
@@ -16,5 +17,7 @@ categories:
 3.不嫌弃队友的
 
 4.不需要你多么强，能一起玩和聊天就行
+
+<a href="https://store.steampowered.com/app/3092530/_/">点击前往steam游戏界面</a>
 
 ![](/images/mybj-b/8ffeb09bc924abb8.jpg)
