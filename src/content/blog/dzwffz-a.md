@@ -1,14 +1,14 @@
 ---
 title: 抵制不良违法犯罪行为
-description: 抵制不良违法犯罪行为
+description: 本文章所有内容均出自于网络平台，与本人无关。 为避免网络暴力，图片均已将发布者个人信息隐藏。
 pubDate: 2026-02-21T22:01
 image: /images/dzwffz-a/bf8e8254757a86bb.webp
 draft: false
 tags:
   - 抵制不良违法犯罪行为
-  - 抵制侮辱国家
 categories:
   - 抵制不良违法犯罪行为、抵制侮辱国家
+badge: ''
 ---
 本文章所有内容均出自于网络平台，与本人无关。 为避免网络暴力，图片均已将发布者个人信息隐藏。
 
