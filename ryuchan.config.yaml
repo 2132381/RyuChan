@@ -93,17 +93,17 @@ site:
         - id: huangjingy
           text: 黄景瑜
           href: https://v.douyin.com/-sDgHJnttE8/
-          svg: material-symbols:music-note-rounded
+          svg: material-symbols:movie-outline
           target: _self
         - id: likeyi
           text: 李柯以
           href: https://v.douyin.com/gDN13temG5A/
-          svg: material-symbols:music-note-rounded
+          svg: material-symbols:movie-outline
           target: _self
         - id: wangpeiyan
           text: 王培延
           href: https://v.douyin.com/o2mYTI72nHY/
-          svg: material-symbols:music-note-rounded
+          svg: material-symbols:movie-outline
           target: _self
     - id: friend
       text: 朋友
