@@ -4,8 +4,11 @@ description: 服务器更新公告 -2026-3-12
 pubDate: 2026-03-12T22:34
 image: /images/mzy-gx/e0f44107be17a158.png
 draft: false
-tags: []
-categories: []
+tags:
+  - 公告
+categories:
+  - 梦之云
+badge: ''
 ---
 玩家们，大家好，我们将在2026年3月21日(周六)进行服务器定期更新
 
