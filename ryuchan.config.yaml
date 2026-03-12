@@ -80,12 +80,12 @@ site:
           svg: material-symbols:music-note-rounded
           target: _self
     - id: project
-      text: 项目
-      href: /project
+      text: 喜欢的明星
+      href: https://huohuo90.com:3004/20141229/article?id=MzM4
       svg: material-symbols:code-blocks-outline
       target: _self
     - id: friend
-      text: 友人帐
+      text: 朋友
       href: /friend
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
