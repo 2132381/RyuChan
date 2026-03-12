@@ -59,25 +59,35 @@ site:
       svg: material-symbols:edit-square-outline-rounded
       target: _self
     - id: navigation
-      text: 导航
-      href: /navigation
+      text: 音乐
+      href: /music
       svg: material-symbols:explore-outline
       target: _self
     - id: entertainment
-      text: 娱乐
+      text: 追剧
       href: '#'
       svg: material-symbols:play-circle-outline-rounded
       target: _self
       subItems:
-        - id: anime
-          text: 追剧
-          href: https://huohuo90.com:3004/20141229/article?id=MzMx
+        - id: dongzhi
+          text: 冬至
+          href: https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:movie-outline
           target: _self
-        - id: music
-          text: 音乐
-          href: /music
-          svg: material-symbols:music-note-rounded
+        - id: heibaijinqu
+          text: 黑白禁区
+          href: https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: zaijianshibaban
+          text: 再见十八班
+          href: https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: shibas
+          text: 十八岁太奶奶驾到
+          href: https://novelquickapp.com/detail?series_id=7607426475175726104
+          svg: material-symbols:movie-outline
           target: _self
     - id: project
       text: 明星
