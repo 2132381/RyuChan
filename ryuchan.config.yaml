@@ -80,7 +80,7 @@ site:
           svg: material-symbols:music-note-rounded
           target: _self
     - id: project
-      text: 喜欢的明星
+      text: 明星
       href: https://huohuo90.com:3004/20141229/article?id=MzM4
       svg: material-symbols:code-blocks-outline
       target: _self
