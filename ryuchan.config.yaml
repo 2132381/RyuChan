@@ -70,7 +70,7 @@ site:
       target: _self
       subItems:
         - id: anime
-          text: 追番
+          text: 追剧
           href: https://huohuo90.com:3004/20141229/article?id=MzMx
           svg: material-symbols:movie-outline
           target: _self
@@ -81,9 +81,30 @@ site:
           target: _self
     - id: project
       text: 明星
-      href: https://huohuo90.com:3004/20141229/article?id=MzM4
+      href: '#'
       svg: material-symbols:code-blocks-outline
       target: _self
+      subItems:
+        - id: sunq
+          text: 孙千
+          href: https://v.douyin.com/ltFCwwDNZ6Y/
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: huangjingy
+          text: 黄景瑜
+          href: https://v.douyin.com/-sDgHJnttE8/
+          svg: material-symbols:music-note-rounded
+          target: _self
+        - id: likeyi
+          text: 李柯以
+          href: https://v.douyin.com/gDN13temG5A/
+          svg: material-symbols:music-note-rounded
+          target: _self
+        - id: wangpeiyan
+          text: 王培延
+          href: https://v.douyin.com/o2mYTI72nHY/
+          svg: material-symbols:music-note-rounded
+          target: _self
     - id: friend
       text: 朋友
       href: /friend
