@@ -71,17 +71,20 @@ site:
       subItems:
         - id: dongzhi
           text: 冬至
-          href: https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
+          href: >-
+            https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:movie-outline
           target: _self
         - id: heibaijinqu
           text: 黑白禁区
-          href: https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
+          href: >-
+            https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:movie-outline
           target: _self
         - id: zaijianshibaban
           text: 再见十八班
-          href: https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
+          href: >-
+            https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:movie-outline
           target: _self
         - id: shibas
@@ -117,28 +120,28 @@ site:
           target: _self
     - id: friend
       text: 朋友
-      href: #
+      href: null
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
       subItems:
         - id: xin
           text: 欣
-          href: #
+          href: null
           svg: material-symbols:movie-outline
           target: _self
         - id: zh
           text: 战虎
-          href: #
+          href: null
           svg: material-symbols:movie-outline
           target: _self
         - id: zw
           text: 暂无
-          href: #
+          href: null
           svg: material-symbols:movie-outline
           target: _self
         - id: zu
           text: 暂无
-          href: #
+          href: null
           svg: material-symbols:movie-outline
           target: _self
     - id: about
@@ -187,10 +190,6 @@ user:
         title: Weibo
         ariaLabel: Weibo
         svg: ri:weibo-fill
-      - href: https://space.bilibili.com/3493122409498928?spm_id_from=333.1007.0.0
-        title: Bilibili
-        ariaLabel: Bilibili
-        svg: ri:bilibili-line
   footer:
     social:
       - href: https://github.com/kobaridev
