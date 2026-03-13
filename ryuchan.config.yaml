@@ -35,6 +35,9 @@ site:
     about:
       title: About Me
       subtitle: 一个热爱生活与技术的普通人！
+    abouta:
+      title: About Me
+      subtitle: 一个热爱生活与技术的普通人！
     navigation:
       title: 网站导航
       subtitle: 收藏的常用网站和工具链接
@@ -122,7 +125,7 @@ site:
       target: _self
     - id: about
       text: 关于
-      href: /about
+      href: /abouta
       svg: material-symbols:info-outline-rounded
       target: _self
 anime:
