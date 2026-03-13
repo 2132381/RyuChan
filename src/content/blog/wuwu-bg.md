@@ -6,8 +6,11 @@ image: /images/wuwu-bg/07ac198604777a4b.jpg
 draft: false
 tags:
   - 雾雾05
+  - 讣告
 categories:
   - 讣告
+  - 雾雾05
+badge: ''
 ---
 各位好，
 
