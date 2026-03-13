@@ -34,10 +34,7 @@ site:
       subtitle: 记录那些珍贵的友谊，分享彼此的故事
     about:
       title: About Me
-      subtitle: 一个热爱生活与技术的普通人！
-    abouta:
-      title: About Me
-      subtitle: 一个热爱生活与技术的普通人！
+      subtitle: 一个热爱生活与技术的普通人!
     navigation:
       title: 网站导航
       subtitle: 收藏的常用网站和工具链接
@@ -120,12 +117,33 @@ site:
           target: _self
     - id: friend
       text: 朋友
-      href: /friend
+      href: #
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
+      subItems:
+        - id: xin
+          text: 欣
+          href: #
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: zh
+          text: 战虎
+          href: #
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: zw
+          text: 暂无
+          href: #
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: zu
+          text: 暂无
+          href: #
+          svg: material-symbols:movie-outline
+          target: _self
     - id: about
       text: 关于
-      href: /abouta
+      href: /about
       svg: material-symbols:info-outline-rounded
       target: _self
 anime:
