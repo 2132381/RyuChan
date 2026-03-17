@@ -125,23 +125,13 @@ site:
       target: _self
       subItems:
         - id: xin
-          text: 欣
-          href: null
+          text: 1.21.11存档
+          href: https://huohuo90.com:3004/20141229/resource
           svg: material-symbols:movie-outline
           target: _self
         - id: zh
-          text: 战虎
-          href: null
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: zw
-          text: 暂无
-          href: null
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: zu
-          text: 暂无
-          href: null
+          text: 梦之云
+          href: https://qm.qq.com/q/CEBjD8jyXC
           svg: material-symbols:movie-outline
           target: _self
     - id: about
