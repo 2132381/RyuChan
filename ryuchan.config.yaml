@@ -119,7 +119,7 @@ site:
           svg: material-symbols:movie-outline
           target: _self
     - id: friend
-      text: 朋友
+      text: 项目
       href: null
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
