@@ -2,12 +2,13 @@
 title: 总结网剧冬至里有的歌曲
 description: 网剧冬至歌曲
 pubDate: 2026-03-20T20:20
-image: /images/wjdz-gq/dd9587f480dcb2ed.png
+image: /images/wjdz-gq/29f4062ae778a849.jpg
 draft: false
 tags:
   - 推荐歌曲
 categories:
   - 网剧冬至
+badge: ''
 ---
 主题曲: 想念你想我《冬至》影视剧主题曲-Eric周兴哲  <a href="https://music.163.com/#/song?id=2646438117">点我听歌</a>
 
