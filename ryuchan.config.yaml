@@ -144,6 +144,11 @@ site:
           href: https://v.douyin.com/o2mYTI72nHY/
           svg: material-symbols:movie-outline
           target: _self
+        - id: wzw
+          text: 王梓薇
+          href: https://v.douyin.com/aJtqjAYXlaE/
+          svg: material-symbols:movie-outline
+          target: _self
     - id: friend
       text: 项目
       href: null
