@@ -103,6 +103,16 @@ site:
           href: https://novelquickapp.com/detail?series_id=7607426475175726104
           svg: material-symbols:movie-outline
           target: _self
+        - id: mcyzx
+          text: 明川有知夏
+          href: https://huohuo90.com:3004/20141229/article?id=MzQ0
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: npxknph
+          text: 那片星空那片海
+          href: https://www.iqiyi.com/a_19rrh984nt.html
+          svg: material-symbols:movie-outline
+          target: _self
         - id: music
           text: 音乐
           href: /music
