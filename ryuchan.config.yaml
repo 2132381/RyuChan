@@ -149,6 +149,11 @@ site:
           href: https://v.douyin.com/aJtqjAYXlaE/
           svg: material-symbols:movie-outline
           target: _self
+        - id: xrh
+          text: 徐若晗
+          href: https://v.douyin.com/RPkrFs0S-1o/
+          svg: material-symbols:movie-outline
+          target: _self
     - id: friend
       text: 项目
       href: null
