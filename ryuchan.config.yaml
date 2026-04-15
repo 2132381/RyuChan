@@ -103,9 +103,14 @@ site:
           href: https://novelquickapp.com/detail?series_id=7607426475175726104
           svg: material-symbols:movie-outline
           target: _self
+        - id: lj
+          text: 亮剑
+          href: https://www.iqiyi.com/v_19rrj5sgww.html?ht=0&ischarge=false&tvname=%E4%BA%AE%E5%89%91%E7%AC%AC1%E9%9B%86&vid=14fc3932fe8511dfaa6aa4badb2c35a1&fid=90031301&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=pcw_dianshiju&vfrmblk=pca_2_hot&vfrmrst=image_1
+          svg: material-symbols:movie-outline
+          target: _self
         - id: mcyzx
           text: 明川有知夏
-          href: https://huohuo90.com:3004/20141229/article?id=MzQ0
+          href: https://v.douyin.com/ThN-e-76Y04/
           svg: material-symbols:movie-outline
           target: _self
         - id: npxknph
