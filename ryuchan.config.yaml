@@ -59,23 +59,12 @@ site:
       svg: material-symbols:edit-square-outline-rounded
       target: _self
     - id: navigation
-      text: 推荐
-      href: #
+      text: 音乐
+      href: /music
       svg: material-symbols:movie-outline
       target: _self
-      subItems:
-        - id: slpdfr
-          text: GTA 5警察mod
-          href: https://lspdfrcn.net
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: modrinth
-          text: modrinth
-          href: https://modrinth.com
-          svg: material-symbols:movie-outline
-          target: _self
     - id: entertainment
-      text: 娱乐
+      text: 追剧
       href: '#'
       svg: material-symbols:play-circle-outline-rounded
       target: _self
@@ -117,11 +106,6 @@ site:
           text: 那片星空那片海
           href: https://www.iqiyi.com/a_19rrh984nt.html
           svg: material-symbols:movie-outline
-          target: _self
-        - id: music
-          text: 音乐
-          href: /music
-          svg: material-symbols:explore-outline
           target: _self
     - id: project
       text: 明星
