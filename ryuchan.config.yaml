@@ -144,19 +144,19 @@ site:
           svg: material-symbols:movie-outline
           target: _self
     - id: friend
-      text: 项目
+      text: 友链
       href: null
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
       subItems:
         - id: xin
-          text: 1.21.11存档
-          href: https://huohuo90.com:3004/20141229/resource
+          text: 异环
+          href: https://yh.wanmei.com
           svg: material-symbols:movie-outline
           target: _self
         - id: zh
-          text: 梦之云
-          href: https://qm.qq.com/q/CEBjD8jyXC
+          text: 暂无
+          href: #
           svg: material-symbols:movie-outline
           target: _self
     - id: about
