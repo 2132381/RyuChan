@@ -107,6 +107,11 @@ site:
           href: https://www.iqiyi.com/a_19rrh984nt.html
           svg: material-symbols:movie-outline
           target: _self
+        - id: nxls
+          text: 女心理师
+          href: https://player.youku.com/embed/XNTIwMDg0Nzc5Mg
+          svg: material-symbols:movie-outline
+          target: _self
     - id: project
       text: 明星
       href: '#'
@@ -141,6 +146,11 @@ site:
         - id: xrh
           text: 徐若晗
           href: https://v.douyin.com/RPkrFs0S-1o/
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: yz
+          text: 杨紫
+          href: https://v.douyin.com/Es9mNX-mRBs/
           svg: material-symbols:movie-outline
           target: _self
     - id: friend
