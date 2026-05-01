@@ -112,6 +112,11 @@ site:
           href: https://player.youku.com/embed/XNTIwMDg0Nzc5Mg
           svg: material-symbols:movie-outline
           target: _self
+        - id: hed
+          text: 贺顿的小可乐
+          href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
+          svg: material-symbols:movie-outline
+          target: _self
     - id: project
       text: 明星
       href: '#'
@@ -151,6 +156,11 @@ site:
         - id: yz
           text: 杨紫
           href: https://v.douyin.com/Es9mNX-mRBs/
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: jbr
+          text: 井柏然
+          href: https://v.douyin.com/xs18d8ER56U/
           svg: material-symbols:movie-outline
           target: _self
     - id: friend
