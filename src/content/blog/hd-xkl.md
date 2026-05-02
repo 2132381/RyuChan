@@ -40,3 +40,5 @@ badge: ''
 观看请前往 【优酷】进行搜索 【贺顿的小可乐】 进行观看
 
 或点击 【<a href="https://v.youku.com/v_show/id_XNTkyMTA2MzkwNA==.html?spm=a2hkm.8166622.PhoneSokuProgram_1.dchapters_1&pv_spm=a2hkm.8166622.PhoneSokuProgram_1.dchapters_1">观看</a>】 进行观看。
+
+需要视频平台 【优酷】 会员观看全集。
