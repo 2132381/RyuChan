@@ -8,6 +8,7 @@ tags:
   - 电视剧贺顿的小可乐
 categories:
   - 贺顿的小可乐
+badge: ''
 ---
 ![](/images/hd-xkl/36885aaff82de021.webp)
 
@@ -35,3 +36,7 @@ categories:
 
 ![](/images/hd-xkl/df05b63381327b67.webp)
 
+
+观看请前往 【优酷】进行搜索 【贺顿的小可乐】 进行观看
+
+或点击 【<a href="https://v.youku.com/v_show/id_XNTkyMTA2MzkwNA==.html?spm=a2hkm.8166622.PhoneSokuProgram_1.dchapters_1&pv_spm=a2hkm.8166622.PhoneSokuProgram_1.dchapters_1">观看</a>】 进行观看。
