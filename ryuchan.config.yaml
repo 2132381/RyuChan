@@ -10,7 +10,7 @@ site:
     code: github-dark
   date_format: ddd MMM DD YYYY
   blog:
-    pageSize: 8
+    pageSize: 10
   banner:
     enableRandom: true
     randomUrl: https://t.alcy.cc/ycy
@@ -70,52 +70,52 @@ site:
       target: _self
       subItems:
         - id: dongzhi
-          text: 冬至
+          text: 冬至(爱奇艺独播)
           href: >-
             https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: heibaijinqu
-          text: 黑白禁区
+          text: 黑白禁区(爱奇艺)
           href: >-
             https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: zaijianshibaban
-          text: 再见十八班
+          text: 再见十八班(爱奇艺)
           href: >-
             https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: shibas
-          text: 十八岁太奶奶驾到
+          text: 十八岁太奶奶驾到(红果短剧)
           href: https://novelquickapp.com/detail?series_id=7607426475175726104
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: lj
-          text: 亮剑
+          text: 亮剑(爱奇艺)
           href: https://www.iqiyi.com/v_19rrj5sgww.html?ht=0&ischarge=false&tvname=%E4%BA%AE%E5%89%91%E7%AC%AC1%E9%9B%86&vid=14fc3932fe8511dfaa6aa4badb2c35a1&fid=90031301&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=pcw_dianshiju&vfrmblk=pca_2_hot&vfrmrst=image_1
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: mcyzx
-          text: 明川有知夏
+          text: 明川有知夏(暂未上线)
           href: https://v.douyin.com/ThN-e-76Y04/
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: npxknph
-          text: 那片星空那片海
+          text: 那片星空那片海(爱奇艺)
           href: https://www.iqiyi.com/a_19rrh984nt.html
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: nxls
-          text: 女心理师
+          text: 女心理师(优酷独播)
           href: https://player.youku.com/embed/XNTIwMDg0Nzc5Mg
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
         - id: hed
-          text: 贺顿的小可乐
+          text: 贺顿的小可乐(优酷独播)
           href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
-          svg: material-symbols:movie-outline
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
     - id: project
       text: 明星
@@ -174,9 +174,29 @@ site:
           href: https://yh.wanmei.com
           svg: material-symbols:movie-outline
           target: _self
-        - id: zh
-          text: 暂无
-          href: #
+        - id: bilibili
+          text: BiliBili
+          href: https://www.bilibili.com
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: weibo
+          text: 微博
+          href: https://weibo.com
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: douyin
+          text: 抖音
+          href: https://www.douyin.com
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: kuaishou
+          text: 快手
+          href: https://www.kuaishou.com
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: minecrsft
+          text: Minecraft
+          href: https://www.minecraft.net
           svg: material-symbols:movie-outline
           target: _self
     - id: about
