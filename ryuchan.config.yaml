@@ -117,6 +117,16 @@ site:
           href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
           svg: material-symbols:play-circle-outline-rounded
           target: _self
+        - id: scj1
+          text: 三叉戟1(爱奇艺、优酷、腾讯视频)
+          href: https://www.iqiyi.com/v_19rxzmbiv4.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: scj2
+          text: 三叉戟2(爱奇艺独播)
+          href: https://www.iqiyi.com/v_1cvuif6tb10.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
     - id: project
       text: 明星
       href: '#'
