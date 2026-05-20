@@ -173,6 +173,11 @@ site:
           href: https://v.douyin.com/xs18d8ER56U/
           svg: material-symbols:movie-outline
           target: _self
+        - id: lzx
+          text: 李之夏
+          href: https://v.douyin.com/cTiqqGaNw4s/
+          svg: material-symbols:movie-outline
+          target: _self
     - id: friend
       text: 友链
       href: null
