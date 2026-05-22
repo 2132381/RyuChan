@@ -215,8 +215,8 @@ site:
           svg: material-symbols:movie-outline
           target: _self
         - id: mzyft
-          text: 梦之云商城
-          href: https://www.mzyft.top
+          text: 商城
+          href: https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.2.2e1b3da6zJltLz&userId=2218948098506
           svg: material-symbols:movie-outline
           target: _self
         - id: anime
