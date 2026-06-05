@@ -127,6 +127,11 @@ site:
           href: https://www.iqiyi.com/v_1cvuif6tb10.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:play-circle-outline-rounded
           target: _self
+        - id: xmi
+          text: 香蜜沉沉烬如霜(爱奇艺、优酷、腾讯)
+          href: https://qy.net/a1IXmOa-ec?vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
     - id: project
       text: 明星
       href: '#'
