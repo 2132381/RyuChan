@@ -132,6 +132,11 @@ site:
           href: https://qy.net/a1IXmOa-ec?vfrm=pcw_album_auto
           svg: material-symbols:play-circle-outline-rounded
           target: _self
+        - id: rmjc
+          text: 人民警察(爱奇艺、腾讯视频、央视网、央视频、央视影音)
+          href: https://qy.net/c9IWxD0-57?vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
     - id: project
       text: 明星
       href: '#'
@@ -181,6 +186,11 @@ site:
         - id: lzx
           text: 李之夏
           href: https://v.douyin.com/cTiqqGaNw4s/
+          svg: material-symbols:movie-outline
+          target: _self
+        - id: wx
+          text: 万茜
+          href: https://v.douyin.com/I2UIEFDS-C4/
           svg: material-symbols:movie-outline
           target: _self
     - id: friend
