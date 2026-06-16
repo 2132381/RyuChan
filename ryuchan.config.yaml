@@ -165,7 +165,7 @@ site:
           href: https://v.douyin.com/cTiqqGaNw4s/
           svg: material-symbols:movie-outline
           target: _self
-        - id: wx
+        - id: wanx
           text: 万茜
           href: https://v.douyin.com/I2UIEFDS-C4/
           svg: material-symbols:movie-outline
@@ -211,7 +211,7 @@ site:
           href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-         - id: lj
+        - id: lj
           text: 亮剑(爱奇艺)
           href: https://www.iqiyi.com/v_19rrj5sgww.html?ht=0&ischarge=false&tvname=%E4%BA%AE%E5%89%91%E7%AC%AC1%E9%9B%86&vid=14fc3932fe8511dfaa6aa4badb2c35a1&fid=90031301&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=pcw_dianshiju&vfrmblk=pca_2_hot&vfrmrst=image_1
           svg: material-symbols:play-circle-outline-rounded
