@@ -64,77 +64,54 @@ site:
       svg: material-symbols:movie-outline
       target: _self
     - id: entertainment
-      text: 追剧
+      text: 短剧
       href: '#'
       svg: material-symbols:play-circle-outline-rounded
       target: _self
       subItems:
-        - id: dongzhi
-          text: 冬至(爱奇艺独播)
-          href: >-
-            https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:play-circle-outline-rounded
-          target: _self
-        - id: heibaijinqu
-          text: 黑白禁区(爱奇艺)
-          href: >-
-            https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:play-circle-outline-rounded
-          target: _self
-        - id: zaijianshibaban
-          text: 再见十八班(爱奇艺)
-          href: >-
-            https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
-          svg: material-symbols:play-circle-outline-rounded
-          target: _self
         - id: shibas
           text: 十八岁太奶奶驾到(红果短剧)
           href: https://novelquickapp.com/detail?series_id=7607426475175726104
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: lj
-          text: 亮剑(爱奇艺)
-          href: https://www.iqiyi.com/v_19rrj5sgww.html?ht=0&ischarge=false&tvname=%E4%BA%AE%E5%89%91%E7%AC%AC1%E9%9B%86&vid=14fc3932fe8511dfaa6aa4badb2c35a1&fid=90031301&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=pcw_dianshiju&vfrmblk=pca_2_hot&vfrmrst=image_1
+        - id: shibas2
+          text: 十八岁太奶奶驾到2(红果短剧)
+          href: https://www.hongguoduanju.com/detail?series_id=7530119479875882009
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: mcyzx
-          text: 明川有知夏(暂未上线)
-          href: https://v.douyin.com/ThN-e-76Y04/
+        - id: shibas3
+          text: 十八岁太奶奶驾到3(红果短剧)
+          href: https://novelquickapp.com/detail?series_id=7564322315257793561
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: npxknph
-          text: 那片星空那片海(爱奇艺)
-          href: https://www.iqiyi.com/a_19rrh984nt.html
+        - id: shibas4
+          text: 十八岁太奶奶驾到4(红果短剧)
+          href: https://www.hongguoduanju.com/detail?series_id=7607426475175726104
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: nxls
-          text: 女心理师(优酷独播)
-          href: https://player.youku.com/embed/XNTIwMDg0Nzc5Mg
+        - id: frtzzbf
+          text: 夫人她专职不服(红果短剧)
+          href: https://novelquickapp.com/detail?series_id=7537251022595427390
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: hed
-          text: 贺顿的小可乐(优酷独播)
-          href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
+        - id: frtzzbf2
+          text: 夫人她专职不服2(红果短剧)
+          href: https://novelquickapp.com/detail?series_id=7574997495525166142
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: scj1
-          text: 三叉戟1(爱奇艺、优酷、腾讯视频)
-          href: https://www.iqiyi.com/v_19rxzmbiv4.html?method=run_app&vfrm=pcw_album_auto
+        - id: frtzzbf3
+          text: 夫人她专治不服3之将门捉婿(红果短剧)
+          href: https://www.hongguoduanju.com/detail?series_id=7588040881546988568
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: scj2
-          text: 三叉戟2(爱奇艺独播)
-          href: https://www.iqiyi.com/v_1cvuif6tb10.html?method=run_app&vfrm=pcw_album_auto
+        - id: frtzzbf4
+          text: 夫人她专治不服4(红果短剧)
+          href: https://hongguoduanju.com/detail?series_id=7645620931016002584
           svg: material-symbols:play-circle-outline-rounded
           target: _self
-        - id: xmi
-          text: 香蜜沉沉烬如霜(爱奇艺、优酷、腾讯)
-          href: https://qy.net/a1IXmOa-ec?vfrm=pcw_album_auto
-          svg: material-symbols:play-circle-outline-rounded
-          target: _self
-        - id: rmjc
-          text: 人民警察(爱奇艺、腾讯视频、央视网、央视频、央视影音)
-          href: https://qy.net/c9IWxD0-57?vfrm=pcw_album_auto
+         - id: wcbuhasnn
+          text: 我才不会爱上你呢(红果短剧)
+          href: https://hongguoduanju.com/detail?series_id=7643760094051568664
           svg: material-symbols:play-circle-outline-rounded
           target: _self
     - id: project
@@ -192,6 +169,75 @@ site:
           text: 万茜
           href: https://v.douyin.com/I2UIEFDS-C4/
           svg: material-symbols:movie-outline
+          target: _self
+    - id: friend
+      text: 电视剧
+      href: null
+      svg: material-symbols:supervisor-account-outline-rounded
+      target: _self
+      subItems:
+         - id: scj1
+          text: 三叉戟1(爱奇艺、优酷、腾讯视频)
+          href: https://www.iqiyi.com/v_19rxzmbiv4.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: scj2
+          text: 三叉戟2(爱奇艺独播)
+          href: https://www.iqiyi.com/v_1cvuif6tb10.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: xmi
+          text: 香蜜沉沉烬如霜(爱奇艺、优酷、腾讯)
+          href: https://qy.net/a1IXmOa-ec?vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: rmjc
+          text: 人民警察(爱奇艺、腾讯视频、央视网、央视频、央视影音)
+          href: https://qy.net/c9IWxD0-57?vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: npxknph
+          text: 那片星空那片海(爱奇艺)
+          href: https://www.iqiyi.com/a_19rrh984nt.html
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: nxls
+          text: 女心理师(优酷独播)
+          href: https://player.youku.com/embed/XNTIwMDg0Nzc5Mg
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: hed
+          text: 贺顿的小可乐(优酷独播)
+          href: https://player.youku.com/embed/XNTkyMTA2MzkwNA==
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+         - id: lj
+          text: 亮剑(爱奇艺)
+          href: https://www.iqiyi.com/v_19rrj5sgww.html?ht=0&ischarge=false&tvname=%E4%BA%AE%E5%89%91%E7%AC%AC1%E9%9B%86&vid=14fc3932fe8511dfaa6aa4badb2c35a1&fid=90031301&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=pcw_dianshiju&vfrmblk=pca_2_hot&vfrmrst=image_1
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: mcyzx
+          text: 明川有知夏(暂未上线)
+          href: https://v.douyin.com/ThN-e-76Y04/
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: dongzhi
+          text: 冬至(爱奇艺独播)
+          href: >-
+            https://www.iqiyi.com/v_n65m385v7s.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: heibaijinqu
+          text: 黑白禁区(爱奇艺)
+          href: >-
+            https://www.iqiyi.com/v_1b3wei2lmj4.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
+          target: _self
+        - id: zaijianshibaban
+          text: 再见十八班(爱奇艺)
+          href: >-
+            https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
+          svg: material-symbols:play-circle-outline-rounded
           target: _self
     - id: friend
       text: 友链
