@@ -169,7 +169,7 @@ site:
           text: 万茜
           href: https://v.douyin.com/I2UIEFDS-C4/
           svg: material-symbols:movie-outline
-          target: _self
+          target: _self  
     - id: friend
       text: 电视剧
       href: null
@@ -238,57 +238,6 @@ site:
           href: >-
             https://www.iqiyi.com/v_f1ahy2g8d0.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:play-circle-outline-rounded
-          target: _self
-    - id: friend
-      text: 友链
-      href: null
-      svg: material-symbols:supervisor-account-outline-rounded
-      target: _self
-      subItems:
-        - id: xin
-          text: 异环
-          href: https://yh.wanmei.com
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: bilibili
-          text: BiliBili
-          href: https://www.bilibili.com
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: weibo
-          text: 微博
-          href: https://weibo.com
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: douyin
-          text: 抖音
-          href: https://www.douyin.com
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: kuaishou
-          text: 快手
-          href: https://www.kuaishou.com
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: minecrsft
-          text: Minecraft
-          href: https://www.minecraft.net
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: mzyft
-          text: 商城
-          href: https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.2.2e1b3da6zJltLz&userId=2218948098506
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: anime
-          text: 追番
-          href: /anime
-          svg: material-symbols:movie-outline
-          target: _self
-        - id: friend
-          text: 友人帐
-          href: /friend
-          svg: material-symbols:movie-outline
           target: _self
     - id: about
       text: 关于
