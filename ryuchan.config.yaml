@@ -176,7 +176,7 @@ site:
       svg: material-symbols:supervisor-account-outline-rounded
       target: _self
       subItems:
-         - id: scj1
+        - id: scj1
           text: 三叉戟1(爱奇艺、优酷、腾讯视频)
           href: https://www.iqiyi.com/v_19rxzmbiv4.html?method=run_app&vfrm=pcw_album_auto
           svg: material-symbols:play-circle-outline-rounded
