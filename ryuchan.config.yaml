@@ -169,7 +169,18 @@ site:
           text: 万茜
           href: https://v.douyin.com/I2UIEFDS-C4/
           svg: material-symbols:movie-outline
-          target: _self  
+          target: _self
+    - id: ljshensu
+      text: 服务器类
+      href: '#'
+      svg: material-symbols:code-blocks-outline
+      target: _self
+      subItems:
+        - id: shensu
+          text: 申诉中心
+          href: https://www.mzyft.top
+          svg: material-symbols:movie-outline
+          target: _self
     - id: friend
       text: 电视剧
       href: null
